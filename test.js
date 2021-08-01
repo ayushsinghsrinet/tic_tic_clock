@@ -15,7 +15,7 @@ function draw(){
 
 
     // text(welcom,100,100)
-text("Desingn And Devloped By Ayush Singh",600,500)
+//text("Desingn And Devloped By Ayush Singh",600,500)
     
     textFont("Times New Roman");
     //textFont("Dico Mono")
@@ -100,7 +100,7 @@ s=second();
 
 textSize(20)
 text("Time:-"+h+":"+m+":"+s,40,500)
-text("Desingn And Devloped By Ayush Singh",600,600)
+text("Desingn And Devloped By Ayush Singh",600,500)
 
 
 var d=day();
