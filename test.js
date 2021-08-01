@@ -100,6 +100,7 @@ s=second();
 
 textSize(20)
 text("Time:-"+h+":"+m+":"+s,40,500)
+text("Desingn And Devloped By Ayush Singh",600,600)
 
 
 var d=day();
